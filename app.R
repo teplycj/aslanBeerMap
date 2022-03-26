@@ -127,7 +127,7 @@ ui <- tagList(
           fluidRow(
             column(2,
               #a button to submit the request
-              actionButton('bleepBlorp',"FIND MY BEER"))),
+              actionButton('findBeers',"FIND MY BEER"))),
         
               br(),
               htmlOutput("noBeerHere"), #a place holder to let the user know that beer may not be available given their desired inputs
@@ -242,7 +242,7 @@ server <- function(input, output, session) {
       addAwesomeMarkers(~Long, ~Lat,icon = awesome, popup = ~as.character(paste("<b><a target='_blank' rel='noopener noreferrer' href =",Google.Maps.URL,">", Location.Name,"</a></b>","<br/>",Address,"<br/>",formatPhoneNumber(Phone.Number))), label = ~as.character(Location.Name))
   })
   
-  observeEvent(input$bleepBlorp,{ #this code block is for when the user submits a request
+  observeEvent(input$findBeers,{ #this code block is for when the user submits a request
     
     disZip <- input$zipCode #get the user inputted zip code
     distIndex <- match(as.character(input$distRange),toSelectVec) #get the index the user selected for their desired distance range
