@@ -1,0 +1,191 @@
+zipVec,cityVec,provVec,latVec,longVec
+V4B,White Rock,BC,49.026,-122.806
+V2A,Penticton,BC,49.481,-119.586
+V4T,Westbank,BC,49.866,-119.739
+V4V,Winfield,BC,50.022,-119.405
+V1A,Kimberley,BC,49.683,-115.986
+V8K,Saltspring Island,BC,48.814,-123.497
+V2R,Chilliwack West,BC,49.076,-121.988
+V2S,Abbotsford Southeast,BC,49.042,-122.283
+V2T,Abbotsford Southwest,BC,49.038,-122.349
+V2V,Mission East,BC,49.646,-122.505
+V2W,Maple Ridge East,BC,49.207,-122.485
+V2X,Maple Ridge West,BC,49.22,-122.616
+V2Y,Langley Township Northwest,BC,49.128,-122.624
+V2Z,Langley Township Southwest,BC,49.048,-122.6
+V3C,Port Coquitlam South,BC,49.244,-122.787
+V2C,Kamloops Central and Southeast,BC,50.544,-120.094
+V2E,Kamloops South and West,BC,50.674,-120.421
+V2H,Kamloops North,BC,50.726,-120.166
+V2J,Quesnel,BC,52.978,-122.493
+V2K,Prince George North,BC,54.051,-122.922
+V2L,Prince George East Central,BC,53.908,-122.747
+V2M,Prince George West Central,BC,53.913,-122.871
+V2N,Prince George South,BC,53.641,-122.954
+V2P,Chilliwack Central,BC,49.184,-121.905
+V0C,Northern British Columbia (Fort Nelson),BC,58.387,-125.717
+V0E,Central Okanagan and High Country (Revelstoke),BC,51.505,-119.203
+V0G,West Kootenays (Rossland),BC,50.053,-117.429
+V0H,South Okanagan (Summerland),BC,49.409,-119.005
+V0J,Omineca and Yellowhead (Smithers),BC,55.996,-126.857
+V0K,Cariboo and West Okanagan (100 Mile House),BC,51.437,-121.638
+V0L,Chilcotin (Alexis Creek),BC,52.099,-123.653
+V0M,Harrison Lake Region (Agassiz),BC,49.635,-122.038
+V0N,"North Island, Sunshine Coast, and Southern Gulf Islands (Whistler)",BC,51.294,-126.075
+V0P,North Central Island and Bute Inlet Region (Gold River),BC,49.887,-126.267
+V0R,Central Island (Chemainus),BC,49.027,-124.846
+V0S,Juan de Fuca Shore (Sooke),BC,48.543,-123.672
+V0T,Inside Passage and the Queen Charlottes (Queen Charlotte City),BC,52.234,-126.213
+V0V,Lower Skeena (Port Edward),BC,53.973,-129.899
+V0W,Atlin Region (Atlin),BC,59.638,-133.543
+V0X,Similkameen (Hope),BC,49.369,-120.657
+V1H,Vernon West,BC,50.287,-119.497
+V1J,Fort St. John,BC,56.25,-120.853
+V3E,Port Coquitlam North,BC,49.317,-122.738
+V3G,Abbotsford East,BC,49.075,-122.178
+V3J,Coquitlam North,BC,49.265,-122.872
+V3K,Coquitlam South,BC,49.237,-122.852
+V3L,New Westminster Northeast,BC,49.22,-122.9
+V3M,New Westminster Southwest (Includes Annacis Island),BC,49.189,-122.938
+V3N,Burnaby (East Big Bend / Stride Avenue / Edmonds / Cariboo-Armstrong),BC,49.227,-122.93
+V3R,Surrey North,BC,49.195,-122.813
+V3S,Surrey East,BC,49.079,-122.755
+V3T,Surrey Inner Northwest,BC,49.189,-122.845
+V1L,Nelson,BC,49.5,-117.286
+V1M,Langley Township North,BC,49.166,-122.579
+V1P,Kelowna East,BC,49.896,-119.172
+V1S,Kamloops Southwest,BC,50.558,-120.548
+V1T,Vernon Central,BC,50.26,-119.277
+V1V,Kelowna North,BC,49.95,-119.434
+V1W,Kelowna Southwest,BC,49.812,-119.508
+V1X,Kelowna East Central,BC,50.053,-119.286
+V1Y,Kelowna Central,BC,49.893,-119.485
+V1Z,Kelowna West,BC,49.862,-119.583
+V5P,Vancouver (SE Kensington / Victoria-Fraserview),BC,49.222,-123.068
+V5R,Vancouver (South Renfrew-Collingwood),BC,49.24,-123.041
+V5S,Vancouver (Killarney),BC,49.218,-123.038
+V5T,Vancouver (East Mount Pleasant),BC,49.262,-123.092
+V5V,Vancouver (West Kensington / NE Riley Park-Little Mountain),BC,49.248,-123.091
+V5W,Vancouver (SE Riley Park-Little Mountain / SW Kensington / NE Oakridge / North Sunset),BC,49.233,-123.092
+V5X,Vancouver (SE Oakridge / East Marpole / South Sunset),BC,49.216,-123.098
+V5Y,Vancouver (West Mount Pleasant / West Riley Park-Little Mountain),BC,49.249,-123.11
+V5Z,Vancouver (East Fairview / South Cambie),BC,49.248,-123.121
+V6C,Vancouver (Waterfront / Coal Harbour / Canada Place),BC,49.287,-123.116
+V6E,Vancouver (South West End),BC,49.283,-123.13
+V6G,Vancouver (North West End / Stanley Park),BC,49.299,-123.141
+V6H,Vancouver (West Fairview / Granville Island / NE Shaughnessy),BC,49.256,-123.132
+V6J,Vancouver (NW Shaughnessy / East Kitsilano / Quilchena),BC,49.26,-123.146
+V6K,Vancouver (Central Kitsilano),BC,49.265,-123.165
+V6L,Vancouver (NW Arbutus Ridge),BC,49.25,-123.166
+V6M,Vancouver (South Shaughnessy / NW Oakridge / NE Kerrisdale / SE Arbutus Ridge),BC,49.234,-123.145
+V6N,Vancouver (Dunbar-Southlands / Musqueam),BC,49.23,-123.189
+V6P,Vancouver (SE Kerrisdale / SW Oakridge / West Marpole),BC,49.215,-123.14
+V6R,Vancouver (West Kitsilano / Jericho),BC,49.267,-123.198
+V6S,Vancouver (Chaldecutt / South University Endowment Lands),BC,49.249,-123.209
+V6V,Richmond Northeast,BC,49.185,-123.039
+V6W,Richmond Southeast,BC,49.153,-123.048
+V6X,Richmond North,BC,49.184,-123.117
+V6Y,Richmond Central,BC,49.17,-123.137
+V6Z,Vancouver (SW Downtown),BC,49.277,-123.13
+V7B,Richmond (Sea Island / YVR),BC,49.199,-123.18
+V7C,Richmond West,BC,49.163,-123.172
+V7E,Richmond Southwest,BC,49.132,-123.17
+V7G,North Vancouver Outer East,BC,49.368,-122.928
+V7H,North Vancouver Inner East,BC,49.355,-122.98
+V7J,North Vancouver East Central,BC,49.362,-123.018
+V7K,North Vancouver North Central,BC,49.36,-123.038
+V7L,North Vancouver South Central,BC,49.316,-123.058
+V7M,North Vancouver Southwest Central,BC,49.322,-123.083
+V8S,Oak Bay South,BC,48.42,-123.305
+V8T,Victoria North,BC,48.439,-123.357
+V8V,Victoria South,BC,48.417,-123.365
+V8W,Victoria Central British Columbia Provincial Government,BC,48.427,-123.365
+V8X,Saanich South,BC,48.478,-123.366
+V8Y,Saanich North,BC,48.525,-123.375
+V8Z,Saanich Central,BC,48.499,-123.4
+V9B,Highlands,BC,48.479,-123.527
+V9C,Metchosin,BC,48.383,-123.536
+V9E,Saanich West,BC,48.522,-123.453
+V9J,Courtenay Northern Outskirts,BC,49.724,-125.26
+V9K,Qualicum Beach,BC,49.347,-124.436
+V7N,North Vancouver Northwest Central,BC,49.35,-123.068
+V7P,North Vancouver Southwest,BC,49.322,-123.115
+V7R,North Vancouver Northwest,BC,49.378,-123.086
+V7S,West Vancouver North,BC,49.374,-123.186
+V7T,West Vancouver Southeast,BC,49.332,-123.142
+V7V,West Vancouver South,BC,49.34,-123.191
+V7W,West Vancouver West,BC,49.361,-123.263
+V7X,Vancouver (Bentall Centre),BC,49.293,-123.116
+V7Y,Vancouver (Pacific Centre),BC,49.282,-123.119
+V8B,Squamish,BC,49.7,-123.156
+V8C,Kitimat,BC,54.052,-128.653
+V8E,Whistler,BC,50.118,-122.954
+V8J,Prince Rupert,BC,54.316,-130.32
+V8M,Central Saanich,BC,48.566,-123.419
+V8N,Saanich East,BC,48.476,-123.315
+V8P,Saanich Southeast,BC,48.458,-123.332
+V8R,Oak Bay North,BC,48.45,-123.303
+V4P,Surrey South,BC,49.056,-122.83
+V4R,Maple Ridge Northwest,BC,49.29,-122.517
+V4S,Mission West,BC,49.253,-122.357
+V4W,Langley Township East,BC,49.071,-122.498
+V4X,Abbotsford West,BC,49.086,-122.403
+V4Z,Chilliwack East,BC,49.079,-121.61
+V5C,Burnaby (Burnaby Heights / Willingdon Heights / West Central Valley),BC,49.274,-123.007
+V5E,Burnaby (Lakeview-Mayfield / Richmond Park / Kingsway-Beresford),BC,49.227,-122.957
+V5G,Burnaby (Cascade-Schou / Douglas-Gilpin),BC,49.248,-122.994
+V5H,Burnaby (Maywood / Marlborough / Oakalla / Windsor),BC,49.23,-122.995
+V5J,Burnaby (Suncrest / Sussex-Nelson / Clinton-Glenwood / West Big Bend),BC,49.204,-122.992
+V5K,Vancouver (North Hastings-Sunrise),BC,49.281,-123.04
+V5L,Vancouver (North Grandview-Woodlands),BC,49.279,-123.067
+V5M,Vancouver (South Hastings-Sunrise / North Renfrew-Collingwood),BC,49.26,-123.04
+V5N,Vancouver (South Grandview-Woodlands / NE Kensington),BC,49.255,-123.067
+V9N,Courtenay Central,BC,49.659,-124.984
+V9R,Nanaimo South,BC,49.161,-123.983
+V9S,Nanaimo Central,BC,49.189,-123.963
+V9T,Nanaimo North,BC,49.215,-124.02
+V9V,Nanaimo Northwest,BC,49.239,-124.023
+V9W,Campbell River Central,BC,50.077,-125.591
+V9X,Cedar,BC,49.042,-123.979
+V9Y,Port Alberni,BC,49.241,-124.803
+V9Z,Sooke,BC,48.375,-123.728
+V3V,Surrey Outer Northwest,BC,49.189,-122.873
+V3W,Surrey Upper West,BC,49.141,-122.857
+V3X,Surrey Lower West,BC,49.107,-122.858
+V3Z,Surrey,BC,49.106,-122.825
+V4C,Delta Northeast,BC,49.155,-122.912
+V4E,Delta East,BC,49.12,-122.906
+V4G,Delta East Central,BC,49.146,-123.014
+V4K,Delta Central,BC,49.099,-123.032
+V4L,Delta Southeast,BC,49.042,-123.059
+V4M,Delta Southwest,BC,49.033,-123.088
+V4N,Surrey Northeast,BC,49.171,-122.733
+V3A,Langley City,BC,49.1,-122.653
+V2G,Williams Lake,BC,52.142,-122.145
+V0A,Upper Columbia Region (Golden),BC,51.299,-116.939
+V1E,Salmon Arm,BC,50.7,-119.269
+V1N,Castlegar,BC,49.3,-117.669
+V1R,Trail,BC,49.1,-117.702
+V6T,Vancouver (UBC),BC,49.463,-122.822
+V9A,Esquimalt,BC,48.45,-123.419
+V9G,Ladysmith,BC,48.983,-123.819
+V9H,Campbell River Outskirts,BC,49.909,-125.586
+V8A,Powell River,BC,50.016,-124.323
+V8G,Terrace,BC,54.516,-128.603
+V8L,Sidney,BC,48.65,-123.403
+V9M,Comox,BC,49.683,-124.936
+V4A,Surrey Southwest,BC,49.037,-122.83
+V3B,Port Coquitlam Central,BC,49.274,-122.765
+V2B,Kamloops Northwest,BC,50.887,-120.736
+V0B,East Kootenays (Fernie),BC,49.678,-115.564
+V1B,Vernon East,BC,50.084,-118.938
+V1C,Cranbrook,BC,49.5,-115.769
+V1G,Dawson Creek,BC,55.767,-120.236
+V1K,Merritt,BC,50.112,-120.794
+V6A,Vancouver (Strathcona / Chinatown / Downtown Eastside),BC,49.278,-123.091
+V6B,Vancouver (NE Downtown / Harbour Centre / Gastown / Yaletown),BC,49.279,-123.114
+V7A,Richmond South,BC,49.12,-123.117
+V9L,Duncan,BC,48.783,-123.703
+V5A,Burnaby (Government Road / Lake City / SFU / Burnaby Mountain),BC,49.264,-122.937
+V5B,Burnaby (Parkcrest-Aubrey / Ardingley-Sprott),BC,49.277,-122.976
+V9P,Parksville,BC,49.316,-124.319
