@@ -31,7 +31,7 @@ awesome <- makeAwesomeIcon(
 ui <- tagList(
   #a css section to style the page and make it look nice on mobile
   tags$style("html,body{background-color: black;color:white;font-family:sans-serif}
-                #bleepBlorp{
+                #findBeers{
                   font-family: sans-serif;
                   font-style: normal; 
                   font-variant: normal; 
@@ -44,7 +44,7 @@ ui <- tagList(
                   border-radius: 16px;
                   transition-duration: 0.4s;
                 }
-                #bleepBlorp:hover{
+                #findBeers:hover{
                   font-family: sans-serif;
                   font-style: normal; 
                   font-variant: normal; 
