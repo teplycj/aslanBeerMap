@@ -20,7 +20,7 @@ zipCodes <- read.csv('betterZips.csv') #all U.S. zip codes that Aslan beer could
 bcZips <- read.csv("refinedBCzips.csv") #all BC zip codes
 noBeerText <- "<h5 style='color:#e0de1a'> Sorry, no Aslan beer here mate! Try a new zipcode, venue, or widening the search radius.</h5>" #display if no results are found
 
-# a single icon is declared for leaflet icon styling purposes
+# leaflet icon styling purposes
 awesome <- makeAwesomeIcon(
   icon = "circle",
   iconColor = "#fff",
