@@ -8,4 +8,4 @@ To use:
 
 If you want to see the output of this code, click the following link:
 
-https://aslanbrewing.com/beermap
+https://aslanbrewing.com/beer-map
